@@ -1,5 +1,5 @@
 # 傻瓜BERTopic分析工具 V13.1 Pro 用户使用手册 By JWX❤QX  |小红书 drharry
-# Idiot-proof BERTopic Analysis Tool V13.1 Pro User Manual
+# Idiot-proof BERTopic Analysis Tool V18 User Manual
 
 > 功能预告：软件26年5月10号正式释放更新。
 > Feature Preview: The software update will be officially released on May 10, 2026.
