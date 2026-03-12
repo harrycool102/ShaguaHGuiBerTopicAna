@@ -6,7 +6,7 @@
 
 # 软件介绍 / Software Introduction
 
-本软件（傻瓜BERTopic分析工具 V13.1 Pro）是一款专为人文社科、市场研究及大数据文本挖掘打造的顶级自然语言处理（NLP）科研工具。它集成了数据清洗、HDF5分块向量映射、多种聚类算法（UMAP, HDBSCAN）、LLM（大语言模型）智能命名、以及极具深度的交互式HTML可视化图表生成。
+本软件（傻瓜BERTopic分析工具 V18）是一款专为人文社科、市场研究及大数据文本挖掘打造的顶级自然语言处理（NLP）科研工具。它集成了数据清洗、HDF5分块向量映射、多种聚类算法（UMAP, HDBSCAN）、LLM（大语言模型）智能命名、以及极具深度的交互式HTML可视化图表生成。
 This software (Idiot-proof BERTopic Analysis Tool V13.1 Pro) is a top-tier Natural Language Processing (NLP) research tool designed specifically for humanities, social sciences, market research, and big data text mining. It integrates data cleaning, HDF5 chunked vector mapping, multiple clustering algorithms (UMAP, HDBSCAN), LLM (Large Language Model) intelligent naming, and in-depth interactive HTML visualization chart generation.
 
 核心优势包括：解决十万级语料内存溢出问题、支持阿里云与本地API的向量化、提供科学新词发现功能（统计学结合LLM），以及支持图表内文字双击即时修改的Paper-Ready级出图体验。
